@@ -1,0 +1,1 @@
+/Users/hassanjamal/.vim/solarized.vim
